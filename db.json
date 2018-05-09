@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Michael Beeson title"
+    },
+    {
+      "id": 2,
+      "title": "MB title 2"
     }
   ],
   "profile": {
